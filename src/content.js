@@ -483,14 +483,11 @@ const pages = {
             )}
 
             <div class="detail-card">
-
                 <div class="eyebrow">// my journey</div>
-
                 <h3>
                     From my first Java program to the systems
                     I build today
                 </h3>
-
                 <p>
                     My interest in computer science started with my
                     dad, who works as a software developer. Warching him
@@ -503,34 +500,25 @@ const pages = {
                     writing my first programs and discovering how much I
                      enjoyed turning ideas into working software.
                 </p>
-
                 <p>
                     That curiosity grew into a more serious pursuit
                     at the University of Maryland, College Park,
-                    where I’m now a junior majoring in Computer Science
+                    where I'm now a junior majoring in Computer Science
                     in the College of Computer, Mathematical, and
                     Natural Sciences (CMNS). Through coursework and
-                    hands-on projects, I’ve developed my skills across
+                    hands-on projects, I've developed my skills across
                     programming, systems, web development, and
                     data science.
                 </p>
-
                 <p>
-                    Outside the classroom, I’ve built a satellite-tracking
+                    Outside the classroom, I've built a satellite-tracking
                     application, a schedule-to-SMS messaging tool, and
                     a 2D Space Invaders game. My growing interest in
                     cybersecurity led me to earn CompTIA Security+,
-                    and I’m now designing an AST-based Python vulnerability
+                    and I'm now designing an AST-based Python vulnerability
                     scanner to explore how security can be built into
                     the development workflow.
                 </p>
-
-                <p>
-                    I’m especially interested in the intersection of
-                    software engineering, security, and building tools
-                    that solve real problems.
-                </p>
-
             </div>
 
             ${section('At a glance')}
